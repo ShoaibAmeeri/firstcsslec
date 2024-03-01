@@ -1,0 +1,22 @@
+css
+
+selector  
+property
+value
+
+p {
+ color : black/blue   
+}
+
+
+three types
+
+inline css
+internal css
+external css -----prefered
+
+types of selectors
+
+class
+id
+tag
